@@ -1,20 +1,41 @@
-# Rock Paper Scissors
+# 🎮 Rock Paper Scissors Game
 
-A console-based Rock Paper Scissors game developed using Python.
+A simple Python-based Rock Paper Scissors game where the player competes against the computer.
 
-## Features
+The project was created to practice Python fundamentals such as conditional statements, loops, functions, user input, and random number generation.
 
-- Player vs Computer
-- Random computer choice
-- Win/lose/draw detection
-- Score tracking
-- Replay option
+---
 
-## Concepts Used
+## 🎯 Features
 
-- Variables
-- Conditions
-- Loops
+- 👤 Player vs Computer gameplay
+- 🤖 Random computer choices
+- 🏆 Automatic winner determination
+- 📊 Score tracking
+- 🔄 Multiple rounds
+- ✅ Input validation
+- 🔁 Replay option
+- 🖥️ Simple command-line interface
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 3
+- `random` module
 - Functions
-- Lists
-- Random module
+- Loops
+- Conditional Statements
+- User Input
+- Variables and Data Types
+
+---
+
+## 🎮 How the Game Works
+
+The player chooses one of:
+
+```text
+1. Rock
+2. Paper
+3. Scissors
